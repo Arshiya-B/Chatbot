@@ -1,0 +1,77 @@
+
+
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+
+build/Release
+
+build
+
+dist
+
+
+
+
+# Dependency directories
+
+node_modules/
+
+
+
+
+
+
+# Optional npm cache directory
+
+.npm
+
+
+
+
+# Optional eslint cache
+
+.eslintcache
+
+
+
+# dotenv environment variables file
+
+.env
+
+
+
+
+# Apple Mac specific file
+
+.DS_Store
+
+
+
+
+# ignore sonar files
+
+.scannerwork
+
+
+
+
+#ignore vscode config files
+
+.vscode
+
+
+
+
+#ignore vscode config files
+
+.npmrc
+
+
+
+
+#ignore package-lock.json file
+
+package-lock.json
+
+
+has context menu
